@@ -3,6 +3,16 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --color-primary: #00A651;
+  /* Vibrant Green */
+  --color-primary-dark: #008C44;
+  --color-secondary: #FFCC00;
+  /* Yellow accent (shuttlecock feel) */
+  --color-accent: #1E3A8A;
+  /* Deep Blue */
+  --color-neutral: #1F2937;
+  --color-light: #F8FAFC;
+  --color-gray-100: #F1F5F9;
 }
 
 @theme inline {
